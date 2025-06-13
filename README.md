@@ -19,4 +19,10 @@ I designed TelePresence, a real-time document editor that facilitates seamless c
 In conclusion, this project showcases a thoughtful integration of cutting-edge technologies to deliver a modern and efficient collaborative editing solution. React.js powers the responsive front end, MongoDB ensures reliable and scalable data storage, and Node.js with WebSocket communication enables real-time interactions and seamless backend operations. Together, these technologies form the backbone of a feature-rich and user-focused collaborative editing platform. I have named my project as **TelePresence**.
 
 # OUTPUT OF THE TASK
-![Screenshot 2025-06-10 215535](https://github.com/user-attachments/assets/b2172d26-f728-4984-ba3b-e4969ff7ef0a)
+# Document Editor
+
+## Preview
+
+![Screenshot 1](assets/document%20editor%201.png)
+![Screenshot 2](assets/document%20editor%202.png)
+![Screenshot 3](assets/document%20editor%203.png)
